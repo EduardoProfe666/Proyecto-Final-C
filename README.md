@@ -13,6 +13,8 @@ el proyecto en Qt Creator.
 ## 🏛️ Estructura del proyecto
 > ![NOTE]
 > En la carpeta **/src** se encuentra el código del proyecto.
+
+
 > En la carpeta **/build** se encuentran los archivos ejecutables.
 
 ```bash
