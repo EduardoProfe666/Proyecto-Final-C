@@ -1,4 +1,4 @@
-# Proyecto-Final-IP
+# Proyecto-Final-C
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
@@ -66,7 +66,7 @@ Los pasos son:
 
 
 ## 🚀 Descarga del ejecutable
-Para descargar el ejecutable siga [el siguiente enlace](https://github.com/EduardoProfe666/Proyecto-Final-IP/releases/latest). 
+Para descargar el ejecutable siga [el siguiente enlace](https://github.com/EduardoProfe666/Proyecto-Final-C/releases/latest). 
 
 Para ejecutarlo una vez descargado:
 1. Ejecutar el `.exe` en la misma ruta que los otros 2 archivos necesarios.
