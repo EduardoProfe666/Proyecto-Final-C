@@ -23,11 +23,38 @@ Juegos Deportivos de la FEU.
 - Easter Egg de Orqui
 
 ## 📸 Documentación general de la interfaz
-### Inicio
+### Inicio de la aplicación
 > [!TIP]
 > Puede saltar la animación del logo presionando cualquier tecla
 > 
 > ![inicio](assets/inicio.gif)
+
+### Menú Principal de la aplicación
+> [!TIP]
+> Para usar la aplicación recuerde que debe inicializar los datos, ya sea de forma manual, como automática. 
+> En cualquier caso, debe elegir la opción deseada.
+> 
+> ![menu](assets/menu.png)
+
+### Algunos ejemplos del sistema de colores de la aplicación
+> [!WARNING]
+> ![advertencia](assets/advertencia.png)
+
+> [!NOTE]
+> ![info](assets/info.png)
+
+> [!CAUTION]
+> ![error](assets/error.png)
+
+### Salida de la aplicación
+> ![salida](assets/salida.gif)
+
+### Easter Egg de Orqui
+> [!TIP]
+> Para acceder a él, en el menú principal, introduzca el comando "\orqui". 
+> Recuerde que es con "\".
+> 
+> ![orqui](assets/orqui.gif)
 
 ## 👾 Importación del proyecto
 > [!IMPORTANT]
